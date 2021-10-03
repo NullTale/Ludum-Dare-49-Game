@@ -1,0 +1,158 @@
+<linker>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Cubemap" preserve="all" />
+    <type fullname="UnityEngine.RenderSettings" preserve="all" />
+    <type fullname="UnityEngine.LightmapSettings" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Timeline, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Timeline.SignalAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.TimelineAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.SignalReceiver" preserve="all" />
+    <type fullname="UnityEngine.Timeline.MarkerTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.SignalEmitter" preserve="all" />
+    <type fullname="UnityEngine.Timeline.AudioTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.AnimationTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.AudioPlayableAsset" preserve="all" />
+  </assembly>
+  <assembly fullname="Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="CoreLib.SceneManagement.SceneLoaderNull" preserve="all" />
+    <type fullname="CoreLib.OnStartCallback" preserve="all" />
+    <type fullname="CoreLib.States.State" preserve="all" />
+    <type fullname="CoreLib.UIButtonSound" preserve="all" />
+    <type fullname="CoreLib.UITextSizer" preserve="all" />
+    <type fullname="CoreLib.Timeline.ScreenOverlayTrack" preserve="all" />
+    <type fullname="CoreLib.Timeline.ScreenOverlayAsset" preserve="all" />
+    <type fullname="CoreLib.Sound.AudioPlayerInvoker" preserve="all" />
+    <type fullname="CoreLib.States.StateActivator" preserve="all" />
+    <type fullname="CoreLib.Destroyer" preserve="all" />
+    <type fullname="CoreLib.UISoundSlider" preserve="all" />
+    <type fullname="CoreLib.PlayerPrefsValue" preserve="all" />
+    <type fullname="CoreLib.Sound.AudioPlayer" preserve="all" />
+    <type fullname="CoreLib.GlobalValueFloat" preserve="all" />
+    <type fullname="CoreLib.InputActionContainer" preserve="all" />
+    <type fullname="CoreLib.Timeline.ScreenShakeAsset" preserve="all" />
+    <type fullname="CoreLib.Timeline.ParticleSystemAsset" preserve="all" />
+    <type fullname="CoreLib.OnInputAction" preserve="all" />
+    <type fullname="CoreLib.OrientedSpriteLocal" preserve="all" />
+    <type fullname="CoreLib.Timeline.ScreenShakeTrack" preserve="all" />
+    <type fullname="CoreLib.OrientedSprite" preserve="all" />
+    <type fullname="CoreLib.MotionScaler" preserve="all" />
+    <type fullname="CoreLib.Timeline.TimeAsset" preserve="all" />
+    <type fullname="CoreLib.Timeline.ParticleSystemTrack" preserve="all" />
+    <type fullname="CoreLib.Timeline.TimeTrack" preserve="all" />
+    <type fullname="CoreLib.TimeHandle" preserve="all" />
+  </assembly>
+  <assembly fullname="Cinemachine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Cinemachine.CinemachineVirtualCamera" preserve="all" />
+    <type fullname="Cinemachine.CinemachinePipeline" preserve="all" />
+    <type fullname="Cinemachine.CinemachineImpulseListener" preserve="all" />
+    <type fullname="Cinemachine.NoiseSettings" preserve="all" />
+    <type fullname="Cinemachine.CinemachineBasicMultiChannelPerlin" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Game.SmoothScale" preserve="all" />
+    <type fullname="Game.DifficultyButton" preserve="all" />
+    <type fullname="Game.Rotation" preserve="all" />
+    <type fullname="Game.Paddock" preserve="all" />
+    <type fullname="Game.Pig" preserve="all" />
+    <type fullname="Game.RelationVisual" preserve="all" />
+    <type fullname="ShakePosition" preserve="all" />
+    <type fullname="Game.HateGender" preserve="all" />
+    <type fullname="Game.LevelResult" preserve="all" />
+    <type fullname="Game.DirectorState" preserve="all" />
+    <type fullname="Game.Timer" preserve="all" />
+    <type fullname="Game.HateBreed" preserve="all" />
+    <type fullname="Game.PigStates.Socialization" preserve="all" />
+    <type fullname="Game.PigStates.Dead" preserve="all" />
+    <type fullname="Game.GlobalValueSet" preserve="all" />
+    <type fullname="Game.PigStates.Conflict" preserve="all" />
+    <type fullname="Game.PigStates.Drag" preserve="all" />
+    <type fullname="Game.SmoothRotation" preserve="all" />
+    <type fullname="Game.StressBar" preserve="all" />
+    <type fullname="Game.UnRoot" preserve="all" />
+    <type fullname="Game.ForceRotation" preserve="all" />
+    <type fullname="Game.ExplotionInvoker" preserve="all" />
+    <type fullname="Game.IglonreColision" preserve="all" />
+    <type fullname="Game.DirtTrigger" preserve="all" />
+    <type fullname="Game.SceneInitializer" preserve="all" />
+    <type fullname="Game.GameMenu" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEditor.MonoScript" preserve="all" />
+    <type fullname="UnityEditor.Audio.AudioMixerSnapshotController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.DirectorModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Playables.PlayableDirector" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rigidbody" preserve="all" />
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.PhysicMaterial" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.Audio.AudioMixer" preserve="all" />
+    <type fullname="UnityEngine.Audio.AudioMixerGroup" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rendering.Universal.DepthOfField" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.ColorAdjustments" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.LensDistortion" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rendering.VolumeProfile" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Volume" preserve="all" />
+  </assembly>
+</linker>
