@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8447410243844250456
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e30d0eada958da49ba69d7cacc4fe15, type: 3}
+  m_Name: Music
+  m_EditorClassIdentifier: 
+  m_Default:
+    enabled: 1
+    value: 1
+--- !u!114 &-2630814208707373026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e30d0eada958da49ba69d7cacc4fe15, type: 3}
+  m_Name: Sound
+  m_EditorClassIdentifier: 
+  m_Default:
+    enabled: 1
+    value: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2677731b00d45709b64be09dfc82cf9, type: 3}
+  m_Name: PlayerPrefs
+  m_EditorClassIdentifier: 
+  m_Values:
+    m_List:
+    - {fileID: -8447410243844250456}
+    - {fileID: -2630814208707373026}
