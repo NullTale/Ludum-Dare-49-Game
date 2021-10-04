@@ -43,6 +43,34 @@
     <type fullname="UnityEngine.Timeline.AnimationTrack" preserve="all" />
     <type fullname="UnityEngine.Timeline.AudioPlayableAsset" preserve="all" />
   </assembly>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Game.Rotation" preserve="all" />
+    <type fullname="Game.DifficultyButton" preserve="all" />
+    <type fullname="Game.SmoothScale" preserve="all" />
+    <type fullname="Game.Paddock" preserve="all" />
+    <type fullname="Game.Pig" preserve="all" />
+    <type fullname="Game.RelationVisual" preserve="all" />
+    <type fullname="ShakePosition" preserve="all" />
+    <type fullname="Game.HateGender" preserve="all" />
+    <type fullname="Game.LevelResult" preserve="all" />
+    <type fullname="Game.DirectorState" preserve="all" />
+    <type fullname="Game.Timer" preserve="all" />
+    <type fullname="Game.HateBreed" preserve="all" />
+    <type fullname="Game.PigStates.Socialization" preserve="all" />
+    <type fullname="Game.PigStates.Dead" preserve="all" />
+    <type fullname="Game.GlobalValueSet" preserve="all" />
+    <type fullname="Game.PigStates.Conflict" preserve="all" />
+    <type fullname="Game.PigStates.Drag" preserve="all" />
+    <type fullname="Game.SmoothRotation" preserve="all" />
+    <type fullname="Game.StressBar" preserve="all" />
+    <type fullname="Game.UnRoot" preserve="all" />
+    <type fullname="Game.ForceRotation" preserve="all" />
+    <type fullname="Game.ExplotionInvoker" preserve="all" />
+    <type fullname="Game.IglonreColision" preserve="all" />
+    <type fullname="Game.DirtTrigger" preserve="all" />
+    <type fullname="Game.SceneInitializer" preserve="all" />
+    <type fullname="Game.GameMenu" preserve="all" />
+  </assembly>
   <assembly fullname="Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="CoreLib.SceneManagement.SceneLoaderNull" preserve="all" />
     <type fullname="CoreLib.OnStartCallback" preserve="all" />
@@ -81,34 +109,6 @@
   <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="TMPro.TMP_FontAsset" preserve="all" />
     <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
-  </assembly>
-  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="Game.SmoothScale" preserve="all" />
-    <type fullname="Game.DifficultyButton" preserve="all" />
-    <type fullname="Game.Rotation" preserve="all" />
-    <type fullname="Game.Paddock" preserve="all" />
-    <type fullname="Game.Pig" preserve="all" />
-    <type fullname="Game.RelationVisual" preserve="all" />
-    <type fullname="ShakePosition" preserve="all" />
-    <type fullname="Game.HateGender" preserve="all" />
-    <type fullname="Game.LevelResult" preserve="all" />
-    <type fullname="Game.DirectorState" preserve="all" />
-    <type fullname="Game.Timer" preserve="all" />
-    <type fullname="Game.HateBreed" preserve="all" />
-    <type fullname="Game.PigStates.Socialization" preserve="all" />
-    <type fullname="Game.PigStates.Dead" preserve="all" />
-    <type fullname="Game.GlobalValueSet" preserve="all" />
-    <type fullname="Game.PigStates.Conflict" preserve="all" />
-    <type fullname="Game.PigStates.Drag" preserve="all" />
-    <type fullname="Game.SmoothRotation" preserve="all" />
-    <type fullname="Game.StressBar" preserve="all" />
-    <type fullname="Game.UnRoot" preserve="all" />
-    <type fullname="Game.ForceRotation" preserve="all" />
-    <type fullname="Game.ExplotionInvoker" preserve="all" />
-    <type fullname="Game.IglonreColision" preserve="all" />
-    <type fullname="Game.DirtTrigger" preserve="all" />
-    <type fullname="Game.SceneInitializer" preserve="all" />
-    <type fullname="Game.GameMenu" preserve="all" />
   </assembly>
   <assembly fullname="UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEditor.MonoScript" preserve="all" />
